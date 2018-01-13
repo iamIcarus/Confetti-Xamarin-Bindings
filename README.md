@@ -37,7 +37,7 @@ the parent `container`, a `ConfettiSource`, and an array of possible colors for 
 The default confetti shapes are circle, triangle, and square.
 
 ```c#
-CommonConfetti.RainingConfetti(container, new int[] { Color.BLACK }).Infinite();
+CommonConfetti.RainingConfetti(container, new int[] { Color.Black }).Infinite();
 ```
 
 
